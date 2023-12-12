@@ -22,3 +22,23 @@ a {
   color: rgb(219, 207, 207);
   text-decoration: none;
 }
+
+.blog-container {
+  display: flex;
+  max-width: 90vw;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.blog-card {
+  border: solid rgb(0, 70, 110) 1px;
+  background-color: rgb(59, 59, 59);
+  width: 180px;
+  text-align: center;
+  margin: 10px;
+}
+
+.avatar{
+  margin: 16px;
+  border-radius: 8px;
+}

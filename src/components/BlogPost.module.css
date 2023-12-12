@@ -1,0 +1,12 @@
+.PostCard {
+    margin: 80px;
+    padding: 40px;
+    font-size: 19px;
+    line-height: 35px;
+    background-color: rgba(0, 0, 0, 0.315);
+    border-radius: 10px;
+}
+
+.PostCard h3 {
+    text-align: center;
+}
